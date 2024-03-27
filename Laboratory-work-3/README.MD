@@ -33,3 +33,27 @@
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-3.png)
 
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-5.png)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-6.png)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-1.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-2.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-3.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-4.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-5.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-6.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-1.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-2.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-3.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-4.jpg)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-5.jpg)
