@@ -26,3 +26,4 @@
 
 ### 2 Налаштування псевдонімів команд оболонки Bash
 
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-1.png)
