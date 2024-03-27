@@ -5,3 +5,5 @@
 ![image](https://github.com/Lysdorf/WebAR-example/blob/main/Laboratory-work-3/assets/2-2-1.png)
 
 ### 2 Налаштування псевдонімів команд оболонки Bash
+
+### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків
