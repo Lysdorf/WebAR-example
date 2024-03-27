@@ -9,3 +9,5 @@
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-2-2.png)
 
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-2-3.png)
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-2-4.png)
