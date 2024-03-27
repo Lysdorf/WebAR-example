@@ -28,8 +28,68 @@
 
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-1.png)
 
+Рис. 6 - Фрагмент екрану з рішення завдання 2.3.1
+
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-2.png)
+
+Рис. 7 - Фрагмент екрану з рішення завдання 2.3.2
 
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-3.png)
 
+Рис. 8 - Фрагмент екрану з рішення завдання 2.3.3
+
 ![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-5.png)
+
+Рис. 9 - Фрагмент екрану з рішення завдання 2.3.5
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-3-6.png)
+
+Рис. 10 - Фрагмент екрану з рішення завдання 2.3.6
+
+### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-1.jpg)
+
+Рис. 11 - Фрагмент екрану з рішення завдання 2.4.1
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-2.jpg)
+
+Рис. 12 - Фрагмент екрану з рішення завдання 2.4.2
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-3.jpg)
+
+Рис. 13 - Фрагмент екрану з рішення завдання 2.4.3
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-4.jpg)
+
+Рис. 14 - Фрагмент екрану з рішення завдання 2.4.4
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-5.jpg)
+
+Рис. 15 - Фрагмент екрану з рішення завдання 2.4.5
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-4-6.jpg)
+
+Рис. 16 - Фрагмент екрану з рішення завдання 2.4.6
+
+### 4 Проста обробка результатів виконання команд
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-1.jpg)
+
+Рис. 17 - Фрагмент екрану з рішення завдання 2.5.1
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-2.jpg)
+
+Рис. 18 - Фрагмент екрану з рішення завдання 2.5.2
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-3.jpg)
+
+Рис. 19 - Фрагмент екрану з рішення завдання 2.5.3
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-4.jpg)
+
+Рис. 20 - Фрагмент екрану з рішення завдання 2.5.4
+
+![image](https://github.com/Lysdorf/WebAR-example/blob/Laboratory-work-3/Laboratory-work-3/2-5-5.jpg)
+
+Рис. 21 - Фрагмент екрану з рішення завдання 2.5.5
